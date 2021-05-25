@@ -3,6 +3,10 @@
  <!ENTITY b "&a;&a;&a;&a;&a;&a;&a;&a;">
  <!ENTITY c "&b;&b;&b;&b;&b;&b;&b;&b;">
  <!ENTITY d "&c;&c;&c;&c;&c;&c;&c;&c;">
+ <!ENTITY e "&d;&d;&d;&d;&d;&d;&d;&d;">
+ <!ENTITY f "&e;&e;&e;&e;&e;&e;&e;&e;">
+ <!fNTITY g "&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;&f;">
+
  <!ELEMENT bomb (#PCDATA)>
 ]>
-<bomb>&d;</bomb>
+<bomb>&g;</bomb>
